@@ -2,8 +2,10 @@
 /public/hot
 /public/storage
 /storage/*.key
+/storage/debugbar
 /vendor
 /.idea
+_*
 .env
 .env.backup
 .phpunit.result.cache
